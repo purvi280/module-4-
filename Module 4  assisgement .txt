@@ -1,0 +1,203 @@
+﻿Name : Purvi Rathod 
+
+
+Module : 4 
+
+
+Module name : Automation Core Testing
+ (Load Runner Up and Selenium IDE)
+
+
+________________
+
+
+1) Which component have you used in load runner ?
+
+
+Answer : total 4 component used in load runner 
+* Virtual user generation 
+* Controller 
+* Analysis 
+
+
+________________
+
+
+
+
+2) How can you set the numbers of Vusers in load runner? 
+
+
+Answer : Here give some steps to follow it ,
+* Scripted pass
+* Go to tools option 
+* Create controller scenario 
+* Enter Vuser number 
+
+
+________________
+
+
+
+
+3) What is Correlation?
+
+
+Answer : connect any two thing object through a session its means correlation 
+
+
+________________
+
+
+
+
+4)What is the process for developing a Vuser Script?
+
+
+Answer : steps are given 
+* Open HP web tours application 
+* Copy web tours link and paste in notepad 
+* Start virtual user generation 
+* Click on file 
+*  Click on New script and solution 
+* Create a new project 
+* Click on record 
+* Enter your req. data 
+* Click on start recording 
+* Script is generated
+
+
+________________
+
+
+
+
+
+
+5) How does LoadRunner interact with the application? 
+
+
+Answer :  load runner interacts with an application by real user activity and generating traffic and allowing performance testing analysis.
+
+
+________________
+
+
+
+
+6)How many VUsers are required for load testing?
+
+
+Answer : minimum 10 Vusers are required for load testing. 
+
+
+________________
+
+
+
+
+7)What is the relationship between Response Time and Throughput? 
+
+
+Answer : Response time and throughput are related. The response time for an average transaction tends to decrease as you increase overall throughput.
+
+
+________________
+
+
+
+
+8)What is Automation Testing?
+
+
+Answer : test automation is the use of software to control the execution of tests, the comparison of actual outcomes to predicted outcomes, settings up for test preconditions and other test control and test reporting functions. Test automation involves automating a manual process already in place that is used for formalized testing processes.
+
+
+________________
+
+
+
+
+ 
+9)Which Are The Browsers Supported By Selenium Ide?
+
+
+Answer : some browsers are supported by selenium IDE
+* Google chrome 
+* Mozilla firefox 
+* Microsoft edge 
+
+
+________________
+
+
+
+
+
+
+
+
+10) What are the benefits of Automation Testing?
+
+
+Answer :
+*  70% faster than manual testing 
+* Wider test coverage of application feature 
+* Reliable in results 
+* Ensure consistency 
+* Saves time and cost 
+* Improve accuracy 
+* Human intervention is not required while execution 
+* Increases efficiency  
+* Better speed in executing 
+
+
+________________
+
+
+
+
+11) What are the advantages of Selenium?
+
+
+Answer : 
+* Very easy to use and install 
+* No programming experience is required , through knowledge of HTML and DOC
+* Can export tests for formats usable in selenium RC and webdriver 
+* Has build-in help and test results reporting module 
+* Provides support for extension.
+
+
+________________
+
+
+
+
+12)Why should testers opt for Selenium and not QTP?
+
+
+Answer : Here some causes are given:
+1. Selenium is open source and QTP is commercial 
+2. Selenium is highly extension and QTP limit add-ons 
+3. Selenium can run tests across different browser and QTP is can only run tests in firefox , internet explorer and chrome 
+4. Selenium is used in mobile devices and QTP supports mobile devices using 3rd party software.
+
+
+________________
+
+
+
+
+
+
+
+
+13 )To validate the top technologies website Contact us page and enter your friend details at last “Login and side menu. 
+
+
+Answer : In github 
+
+
+
+
+________________
